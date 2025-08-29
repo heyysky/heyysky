@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Saas Platform**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **AIML**
 
 - 📫 How to reach me **bcasourabh209@gmail.com**
 
